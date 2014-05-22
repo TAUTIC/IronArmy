@@ -1,0 +1,16 @@
+[
+{
+  "modid": "IronArmy",
+  "name": "IronArmy Mod",
+  "description": "This mod adds various tools and items related to the IronArmy ModPack, it's developers, and some of it's lucky fans.",
+  "version": "IA_VER",
+  "mcversion": "1.6.4",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["TAUTIC"],
+  "credits": "Mod by TAUTIC",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]
